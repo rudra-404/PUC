@@ -1,0 +1,5 @@
+﻿// JScript File
+$(document).ready(function() {        
+    document.getElementById("lightbox1").style.top="30px";
+});
+

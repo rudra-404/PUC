@@ -1,0 +1,6 @@
+﻿body .listbox_wrap option
+{
+	white-space:normal;
+	padding:3px;
+	border:1px solid gray;
+}
